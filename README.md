@@ -8,6 +8,7 @@ This is a web-based application developed for an online supermarket. Customers c
 - Nishit Poddar
 - Sarvesh Borole
 - Rohit Das
+- Soumya Choudhury
 
 ## Functionality
 
